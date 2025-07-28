@@ -1,5 +1,9 @@
 ## Project Summary: Cat vs Dog Classifier with Vgg16 Fine-Tuning
 ### App Link: https://cat-vs-dog-vgg16.streamlit.app/
+#### NOTE: At the first time, it will display "This app has gone to sleep due to inactivity. Would you like to wake it back up? Yes, get this app back up!" Then click on the "Yes, get this app back up!" button.
+
+![cat_dog_classifier](https://github.com/user-attachments/assets/9aa506cf-08c5-4ea1-baa5-45e1404e815f)
+
 ### Objective
 The objective of this project is to develop a robust image classifier that can distinguish between images of cats and dogs. By leveraging the Vgg16 pre-trained convolutional neural network (CNN) model and fine-tuning it with additional convolutional and dense layers, we aim to achieve high classification accuracy.
 
